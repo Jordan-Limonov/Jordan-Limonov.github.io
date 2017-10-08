@@ -13,3 +13,8 @@ p {
 	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	text-align: center;
 }
+
+img {
+	display: block;
+	margin: auto;
+}
