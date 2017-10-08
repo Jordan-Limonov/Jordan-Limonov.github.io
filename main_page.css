@@ -20,3 +20,21 @@ img {
 	display: block;
 	margin: auto;
 }
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: #ffffff;
+	overflow: auto;
+}
+
+li {
+	float: left;
+	width: 20%;
+}
+
+#second {
+	float: right;
+}
