@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 h1 {
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Toman", serif;
 	font-size: 7vw;
@@ -20,6 +24,8 @@ img {
 	display: block;
 	margin: auto;
 	padding: 0px;
+	max-width: 20%;
+	height: auto;
 }
 
 ul {
@@ -56,19 +62,27 @@ div {
 	background-color: #f1f1f1;
 	padding-left: 0%;
 	padding-right: 0%;
-	padding-bottom: 12%;
-	padding-top: 12%;
+	padding-top: 7%;
 	text-align: center;
 }
 
 #navbar {
 	padding-bottom: 10%;
+	float: top;
+	height: 25%;
+}
+
+#content {
+	height: 75%;
+	float: bottom;
 }
 
 a {
 	text-decoration: none;
 	text-transform: uppercase;
-	font-size: 2em;
+	font-size: 1.5vw;
 	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	color: #808080;
+	padding-top: 10%;
+	width: 20%;
 }
