@@ -73,6 +73,10 @@ div {
 	height: 10vw;
 }
 
+.button:hover {
+	background-color: #f2f2f2;
+}
+
 #navbar {
 	padding-bottom: 10%;
 	float: top;
