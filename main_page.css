@@ -76,7 +76,7 @@ div {
     	transition: all 1s;
 }
 
-.button:hover {
+.button:hover span {
 	background-color: #f2f2f2;
 }
 
