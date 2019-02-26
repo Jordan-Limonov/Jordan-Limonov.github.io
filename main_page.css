@@ -40,6 +40,13 @@ ul {
 	overflow: auto;
 	position: fixed;
 	top: 0;
+	-moz-transition: all 1s;
+    	-webkit-transition: all 1s;
+    	transition: all 1s;
+}
+
+ul:hover {
+    background-color: #e1e1e1
 }
 
 li {
@@ -74,29 +81,6 @@ div {
 	-moz-transition: all 1s;
    	-webkit-transition: all 1s;
     	transition: all 1s;
-}
-
-div {
-    background-image: url(https://raw.githubusercontent.com/Jordan-Limonov/Jordan-Limonov.github.io/master/Images/Symmetrical%20Logo.png);
-}
-
-div span {
-    display: block;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    background: rgba(0,0,0,.5);
-    -moz-transition: all 1s;
-    -webkit-transition: all 1s;
-    transition: all 1s;
-}
-
-div:hover span {
-    opacity: 1;
-}
-
-div:hover span {
-	background-color: #e1e1e1;
 }
 
 #navbar {
