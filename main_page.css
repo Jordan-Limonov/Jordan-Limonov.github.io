@@ -77,13 +77,6 @@ div {
 	text-align: center;
 	height: 10vw;
 	background: rgba(0, 0, 0, 0.25);
-	-moz-transition: all 1s;
-   	-webkit-transition: all 1s;
-    	transition: all 1s;
-}
-
-.button:hover {
-    	background: rgba(0, 0, 0, 0.5);
 }
 
 #navbar {
