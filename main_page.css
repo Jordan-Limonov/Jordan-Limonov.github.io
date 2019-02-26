@@ -71,6 +71,9 @@ div {
 	padding-top: 18%;
 	text-align: center;
 	height: 10vw;
+	-moz-transition: all 1s;
+   	-webkit-transition: all 1s;
+    	transition: all 1s;
 }
 
 .button:hover {
