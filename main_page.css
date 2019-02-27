@@ -18,7 +18,8 @@ p {
 	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	text-align: center;
 	font-size: 2vw;
-	width: 65vw
+	width: 65vw;
+	margin: auto;
 }
 
 img {
