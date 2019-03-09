@@ -33,7 +33,7 @@ img {
 	width: 5.6vw;
 }
 
-ul {
+ul #navbar{
 	list-style-type: none;
 	margin-right: -10px;
 	margin-left: -10px;
