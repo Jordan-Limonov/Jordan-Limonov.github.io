@@ -33,7 +33,7 @@ img {
 	width: 5.6vw;
 }
 
-ul #navbar{
+ul {
 	list-style-type: none;
 	margin-right: -10px;
 	margin-left: -10px;
@@ -46,6 +46,18 @@ ul #navbar{
 	top: 0;
 	background: rgba(200, 200, 200, 0.8);
 }
+
+#contactList {
+	list-style-typoe: none;
+	margin-right: -10px;
+	margin-left: -10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0;
+	width: 100%;
+	overflow: auto;
+}
+
 li {
     	float: left;
     	width: 20%;
