@@ -138,11 +138,6 @@ a {
 	position: relative;
 	top: 0px;
 	left: 0px;
-	opacity: 0;
-	-webkit-transition: opacity 1s ease-in-out;
-  	-moz-transition: opacity 1s ease-in-out;
-  	-o-transition: opacity 1s ease-in-out;
-  	transition: opacity 1s ease-in-out;
 }
 
 #hoverChange img.top {
@@ -158,8 +153,4 @@ a {
 
 #hoverChange img.top:hover {
 	opacity: 0;
-}
-
-#hoverChange img.bottom:hover {
-	opacity: 1;
 }
