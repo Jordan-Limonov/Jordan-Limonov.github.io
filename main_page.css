@@ -61,7 +61,16 @@ ul {
 }
 
 li {
+	float: left;
+	width: 20%;
+	text-align: center;
+	-moz-transition: all 0s;
+	-webkit-transition: all 0s;
+	transition: all 0s;
+}
 
+li:hover {
+	background: rgba(255, 255, 255, 1);
 }
 
 #navButton {
