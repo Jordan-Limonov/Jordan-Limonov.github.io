@@ -129,8 +129,7 @@ a {
 }
 
 #hoverChange {
-  	position: relative;
-  	margin: 0 auto;
+  	position: static;
 }
 
 #hoverChange img {
