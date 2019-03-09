@@ -127,3 +127,21 @@ a {
 	padding-top: 10%;
 	width: 20vw;
 }
+
+#hoverChange {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+#hoverChange img.bottom {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+#hoverChange img.top {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
