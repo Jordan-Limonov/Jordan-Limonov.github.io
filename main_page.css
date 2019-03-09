@@ -61,6 +61,10 @@ ul {
 }
 
 li {
+
+}
+
+#navButton {
     	float: left;
     	width: 20%;
     	text-align: center;
@@ -69,7 +73,7 @@ li {
     	transition: all 1s;
 }
 
-li:hover {
+#navButton:hover {
     	background: rgba(0, 0, 0, 0.1);
 }
 
