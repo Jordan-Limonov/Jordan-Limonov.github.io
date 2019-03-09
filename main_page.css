@@ -50,7 +50,7 @@ ul {
 #contactList {
 	list-style-type: none;
 	margin: auto;
-	padding-top: 25px;
+	padding-top: 50px;
 	width: 25vw;
 	overflow: auto;
 	position: static;
