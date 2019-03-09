@@ -127,20 +127,3 @@ a {
 	padding-top: 10%;
 	width: 20vw;
 }
-
-#hoverChange {
-  	position: static;
-}
-
-#hoverChange img {
-	width: 10vw;
-  	position: absolute;
-  	-webkit-transition: opacity 1s ease-in-out;
-  	-moz-transition: opacity 1s ease-in-out;
-  	-o-transition: opacity 1s ease-in-out;
-  	transition: opacity 1s ease-in-out;
-}
-
-#hoverChange img.top:hover {
-  	opacity: 0;
-}
