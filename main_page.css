@@ -134,9 +134,9 @@ a {
 }
 
 #hoverChange img {
-  	position: absolute;
+	display: block;
+  	position: static;
 	width: 25%;
-  	left: 0;
   	-webkit-transition: opacity 1s ease-in-out;
   	-moz-transition: opacity 1s ease-in-out;
   	-o-transition: opacity 1s ease-in-out;
