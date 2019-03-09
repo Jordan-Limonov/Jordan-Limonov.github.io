@@ -49,15 +49,15 @@ ul {
 
 #contactList {
 	list-style-typoe: none;
-	margin-right: -10px;
-	margin-left: -10px;
+	margin-right: 0px;
+	margin-left: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	padding: 0;
 	width: 100%;
 	overflow: auto;
 	position: static;
-	background: rgba(0, 0, 0, 1);
+	background: rgba(255, 255, 255, 1);
 }
 
 li {
