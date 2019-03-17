@@ -90,7 +90,7 @@ li:hover {
 }
 
 .portrait {
-	display: inline;
+	display: block;
 	background-color: #ffffff;
 	padding-top: 2%;
 	width: 25%;
