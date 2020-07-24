@@ -57,7 +57,7 @@ ul {
 	background: rgba(255, 255, 255, 1);
 }
 
-iframe {
+#frame {
 	display: block;
 	margin: auto;
 	text-align: center;
