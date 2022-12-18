@@ -5,8 +5,9 @@
 h1 {
 	font-family: 'Montserrat';
 	font-weight: 300;
-	font-size: 7vw;
+	font-size: 6vw;
 	text-align: center;
+	margin-top: 2vw;
 }
 
 h2 {
@@ -14,6 +15,7 @@ h2 {
 	font-weight: 300;
 	text-align: center;
 	font-size: 3vw;
+	margin-bottom: 2vw;
 }
 
 p {
