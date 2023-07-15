@@ -97,6 +97,10 @@ li:hover {
 	Height:5vw;
 }
 
+img {
+	width: 100%;
+}
+
 .portrait {
 	display: block;
 	background-color: #ffffff;
