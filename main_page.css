@@ -94,11 +94,11 @@ li:hover {
 .logo {
 	display: block;
 	padding-top: 0px;
-	Height:5vw;
 }
 
 img {
 	width: 100%;
+	height: 100%;
 }
 
 .portrait {
