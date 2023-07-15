@@ -84,6 +84,7 @@ li:hover {
     	-moz-transition: all 1s;
     	-webkit-transition: all 1s;
     	transition: all 1s;
+			height: 5vw;
 }
 
 #navButton:hover {
@@ -93,7 +94,7 @@ li:hover {
 .logo {
 	display: block;
 	padding-top: 0px;
-	Height: 100%;
+	Height:5vw;
 }
 
 .portrait {
@@ -113,15 +114,15 @@ div {
 .button {
 	padding-left: 0%;
 	padding-right: 0%;
-	padding-top: 18%;
+	padding-top: 5%;
 	text-align: center;
-	height: 10vw;
+	height: 5vw;
 }
 
 #navbar {
 	padding-bottom: 10%;
 	float: top;
-	height: 5vw;
+	height: 2.5vw;
 }
 
 #content {
